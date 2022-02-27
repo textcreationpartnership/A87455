@@ -1,0 +1,438 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iusticia presiigiosa [sic], or Iudges turned iuglers supplicating for the common good, the House of Commons in Parliament, against a greevance, none more common by contempt of their just order, and for vindication of their iustice, and traduced by these desperate malignants into injustice, and despicable imposture, by colour of executing such order, whereof there will need no other constat (sic) then their owne records, digested into eight articles of impeachment. In this petition annexed. Discite Iusticaiam moniti, &amp;c.</title>
+            <author>Smith, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87455</idno>
+            <idno type="STC">Wing J1255</idno>
+            <idno type="STC">Thomason E6_5</idno>
+            <idno type="STC">ESTC R2737</idno>
+            <idno type="EEBO-CITATION">99872164</idno>
+            <idno type="PROQUEST">99872164</idno>
+            <idno type="VID">154710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154710)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iusticia presiigiosa [sic], or Iudges turned iuglers supplicating for the common good, the House of Commons in Parliament, against a greevance, none more common by contempt of their just order, and for vindication of their iustice, and traduced by these desperate malignants into injustice, and despicable imposture, by colour of executing such order, whereof there will need no other constat (sic) then their owne records, digested into eight articles of impeachment. In this petition annexed. Discite Iusticaiam moniti, &amp;c.</title>
+                  <author>Smith, Robert, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, MDC.XLIIII. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Impeachments --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154710:1" rendition="simple:additions"/>
+            <p>IVSTICIA PRESIIGIOSA, OR IVDGES TVRNED IVGLERS.</p>
+            <p>Supplicating for the common good, the Houſe of <hi>Commons</hi> in <hi>Parliament,</hi> againſt a gree<g ref="char:EOLhyphen"/>vance, none more common by contempt of their juſt Order, and for vindication of their Iuſtice, and raduced by theſe deſperate Malignants into Injuſtice, and deſpicable impoſture, by colour of executing ſuch Order, whereof there will need no other <hi>Conſtat</hi> then their owne Records, digeſted into eight Article, of Impeachment. In this Petition annexed.</p>
+            <q>
+               <hi>Diſcite Iuſticiam moniti, &amp;c.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, MDC. XLIIII.</p>
+         </div>
+         <div type="note">
+            <pb facs="tcp:154710:2"/>
+            <head>
+               <hi>Burgo. de</hi> Southwarke.</head>
+            <p>The Inn called the Wallnut-Tree, the third part of the <note place="margin">The Subject of his jag<g ref="char:EOLhyphen"/>ling.</note> 16. houſes called the Wallnut Tree, held in Capite by Knights ſervice.</p>
+            <p>CVtberd Beeſton in 22 Eliz. ſeized in feeſimple of theſe <note place="margin">The Title</note> houſes Deviſed 2. parts thereof into 3. parts to be devided to George Ward in Fee upon condition for charitable uſes, leaving the third part to deſcend to Agnes Brooke his heire generall, who in 26. Eliz. by fine and conveyance aſſured her 3. part in fee expectant u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on her decea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to Robert Smith the elder, and Frances his Wife, whereby this third part is ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tled.</p>
+            <p>Cutberd Ward Son and heire of George Ward the Deviſee entred into the 2. parts, and in 16. IAC, died leaving ſrew. his his ſiſter and heire now wife of Richard Cosford.</p>
+            <p>Agnes Brooke, Beeſtons heire entred into the 2 parts for breach of the condition, and 14. IAC. dyed without heire, whereby the 2. parts eſcheated to His Majeſtie, who emiſed the ſame for 48. yeares to Arthur Yorth, who together with Robert Smith Sonne and heire of Robert Smith the elder, and Frances his wife were Tenants in common of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid reſpective parts, upon their ſaid ſeverall Titles, untill Cosford by colour of his Title to the two parts, hath outed the petitoner Smith from his third part in Mid<g ref="char:EOLhyphen"/>ſummer Terme was twelvemonth by illegall proceeding in the Exchequer, in a ſuit for the two parts between the ſaid Cosford and Yorth, wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unto the Petitioner neither was party, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his third part in queſtion, as by the proceedings in particular here re<g ref="char:EOLhyphen"/>lated appeare.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154710:2"/>
+            <head>
+               <hi>Juſticia Preſtigioſa,</hi> OR, Iudges turned Iuglers. To the Honourable Aſſembly of the COMMONS HOVSE OF PARLIAMENT.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Aeneid</hi> Et vacat Annales Anglorum audire laborum.</p>
+               </q>
+            </epigraph>
+            <p>The humble <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Robert Smith</hi> tending to Refo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation of a grievance ſo publike that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King nor Subject having poſſeſſions but are concerned there<g ref="char:EOLhyphen"/>in, not containing matter of Law to amuſe this Honourable Aſſembly, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and juggling demonſtrable by a Record of diviſion of ſixteen Houſes by Commiſſion of the Court of Exchequer, againſt Sir <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Davenport</hi> Knight, Lord chiefe Baron, <hi>Baron Trever,</hi> and <hi>Baron <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> of the ſaid Court, <hi>Richard Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford</hi> and his Councellours, whereby the third part of the Houſes being the pe<g ref="char:EOLhyphen"/>titioners inheritance divided from the other two par<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the ſaid ſixteene houſes, and as a third part ſo enjoyed theſe ten yeares <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and not claimed by any; is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oducted from the Petitioner, and <hi>In return natura</hi> not to be found.</p>
+            <p>
+               <seg rend="decorInit">S</seg>Hewing that the Petitioner being ſeized in Fee, of the third part of theſe ſixteene Houſes into three parts to be divided, called the Wall Nuttree in <hi>Sotth<g ref="char:EOLhyphen"/>worke,</hi> as Tenant in Common with <hi>Arthur Torth,</hi> His Majeſties Leſſee of the other two parts, one <hi>Richard Cosford</hi> in 2. <hi>Car.</hi> exhibited his Engliſh Bill
+<pb facs="tcp:154710:3"/> into the Exchequer againſt the ſaid <hi>Yorth,</hi> thereby claimeing in right of his Wife the two parts, and queſtioning the validitie of an inquiſition, whereby his Majeſty was intituled to the two parts: and becauſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Writ</hi> of partition lay in the King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſe ob<g ref="char:EOLhyphen"/>tained Or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er 18. <hi>Movemb. 7. Car,</hi> for a Commiſſion by a Iury impannelled in due forme of Law, to ſet our and divide theſe 16. houſes in three equall parts, whereby 15. of them were ſet out for his Majeſties two parts, and the ſixteenth and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt houſe in the deviſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> named the <hi>Wall-Nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tree,</hi> in the Tenure of <hi>Robert Willmott,</hi> of 35. l. yearly Rent was ſet out for the third part of the ſaid ſix<g ref="char:EOLhyphen"/>teene houſes, as by the Com. returned by the Commiſſioners, and Iury of Record, in the <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap>.</p>
+            <p>That 2<hi rend="sup">d</hi> 
+               <hi>Iunij 11 Car.</hi> the Court upon full hearing, having diſ<g ref="char:EOLhyphen"/>covered <note place="margin">The procee<g ref="char:EOLhyphen"/>dings, or Iu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gling.</note> a pract<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>co in <hi>Cosford</hi> and his Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncell: for that <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi> by Order of 31. <hi>Ian. 5. Car:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> barred to proc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed or qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtion the ſaid Inquiſition, did not witſtanding 18. <hi>Nov. 7. Car:</hi> being two yeares after, upon wro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orming the Court by his Coun<g ref="char:EOLhyphen"/>cell, that he only claymed the third part of the ſaid 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. houſes, and the defendant the ſaid other two parts obtain Order for ſetting the ſaid 15. houſes, as the two parts ſo divided in the defendant, and the ſaid Meſſageth third part in him the ſaid <hi>Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford,</hi> whereby the Petitioner no partie to the ſuit, nor his ſaid third part queſtioned, was not with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by Injunction of the Court owted for three yeares, from the ſaid Meſſage his third part. Ordered upon the ſaid 2<hi rend="sup">d</hi> of <hi>Iune, 11. Car:</hi> that the <hi>Petitioner</hi> ſhould bee forthwith reſtored to the ſaid third part, of the ſaid 16. houſes, and to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> profits thereof, wrongfully withheld by <hi>Carford,</hi> by colour of ſuch Injunction, notwithſtanding any fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mer Order, and in purſuance of that Order, <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sford</hi> by a relative Order of 6. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 12, Car:</hi> ſtood committed for breach of the ſaid finall Order, of 2. <hi>Iuni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 11. Car:</hi> and untill he yielded obedience thereunto.</p>
+            <p>That <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Order, the Petitioner was by a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Order <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 14 <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Car:</hi> reſtored to the ſaid Meſſage his third part, by an Injunction to the Sheriffe, which ha<g ref="char:EOLhyphen"/>ving <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quietly ſeven yeares, and probably preſuming of no far<g ref="char:EOLhyphen"/>ther <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by like practices did improve it by building to the double <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the other <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cosford</hi> about the beginning of this Parliament, or <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> for the two parts, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (as by the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appeared) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> another like ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the Petition from the ſaid Meſſage, upon his ſaid clayme, to the ſaid
+<pb facs="tcp:154710:3"/> two parts in his Petition to this Honourable Aſſembly, having ob<g ref="char:EOLhyphen"/>tained ſome opinio<g ref="char:cmbAbbrStroke">̄</g> or Reſolve of this houſe, inabling him to proſe<g ref="char:EOLhyphen"/>cute for triall of his Right to the ſaid two parts at Common law, and thereupon two deriveative Orders of the Exch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quer upon his old Bill, the one of 8. <hi>Iulij 17. Car:</hi> the other of 1. <hi>Febr. 17. Car:</hi> for him to ſeale a Leaſe upon the two parts for triall of his Title, in that Court by an Ejectment, whereunto the Defendants were to appeare <hi>gratis</hi> and plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the ſaid <hi>Cosford</hi> in abuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tempt of both Cour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Order thereof, did not ſeale ſuch Leaſe upon any the ſaid fifteene houſes the two parts, as by both Courts he to ſtood ordered, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the ſaid Meſſage, the third part ſo devided re<g ref="char:EOLhyphen"/>ſtored and improved by the Petitioner, then in poſſeſſion of the ſaid <hi>Willmott,</hi> Tenant of all the 16 houſes the three parts. And in <hi>Hillary</hi> Terme was two yeare having declared in the ſaid Court in the name of his Loſſe. <hi>Banfield</hi> againſt the ſaid <hi>Willmott</hi> ſo handled the matter between them, by collution for their owne ends, to place the triall upon a wrong houſe, that albeit, by neither of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Orders, nor any other Order or Proceſſe, <hi>Wilmott</hi> was not bound either to appear or plead to ſuch action, yet both appeared <hi>gratis,</hi> &amp; by colour of the ſaid Orders pleaded thereunto, and ſo farther pro<g ref="char:EOLhyphen"/>ceeded that in the beginning of Midſummer Term then next fol<g ref="char:EOLhyphen"/>lowing, by colour of a Iudgement had in that Action, the ſaid <hi>Wil<g ref="char:EOLhyphen"/>mott</hi> was ev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and the ſaid <hi>Leſſee</hi> of <hi>Cofford</hi> put <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poſſeſſion by the ſheriffe, this Petitioner thus being the ſecond time outed from the ſaid Meſſage, and ſo remaining to his damage of 200. markes.</p>
+            <p>Further ſhewing that before any triall by ſuch contempt and colluſion the Petitioner in prevention of this laſt Ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er in <hi>March</hi> was two yeares, cauſed <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sforid</hi> to be apprehended by the Warden of the <hi>Fleet,</hi> by force of the ſaid Order, of 6 <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 12. <hi>Car:</hi> untill he yeilded obedience to the ſaid finall Order of 2d. 11 <hi>Car</hi> and permit<g ref="char:EOLhyphen"/>ed the Petitioners quier, enjoying the ſaid Meſſage, and payment of the ſaid meane profits, but being brought by <hi>Heb-Corpus</hi> before Baron <hi>Weſton,</hi> was by him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> larged upon his bond to appears in Faſter Terme then next, at which time upon his appearance hee was diſcharged without any obedience to the ſaid finall Order, or any other cauſe appearing in the ſaid Order of diſcharge, of 29. <hi>Apr. 18 Car:</hi>
+            </p>
+            <p>That in farther prevention of the ſaid laſt ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and divers <note place="margin">29 <hi>Apr: 18. Car.</hi>
+               </note> dayes before the triall, the Petitioner moved the Barons in C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urt for Recommitment of <hi>Casford,</hi> untill hee yielded obedi<g ref="char:EOLhyphen"/>ence to the ſaid finall Order of 2d. <hi>Iunij.</hi> But the Barons, aver<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:154710:4"/> point blanck contrary to the ſaid Record of Deviſion, that that the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryall was for the two parts 13. <hi>Maij 18. Car.</hi> Ordered the ſaid triall to proceed upon the then next Friday, whereby the Petitioner was ſo owted again from the ſaid meſſage his third part. <note place="margin">13 <hi>Maii. 18. Car.</hi>
+               </note>
+            </p>
+            <p>Whereby it appeareth that by theſe two ſeverall contempts, and abuſes of both Courts by the Parties to this ſuit upon a Bill of 20. yeares antiquite exhibited for the two parts but never proceeded to triall, or <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all decree; that the Petitioner no party to the ſuit, nor his third part ever queſtioned in either Court, yet by contempt and abuſe of both Courts and Orders aforeſaid, hath to the high diſhonour of both Courts by impoſture of the Barons evidenced by the ſaid Deviſion, the only <hi>Liber <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udex</hi> of the parts, been thus often turned from a Tenant in Common, to a Tenant in ſeverall, and to no Tenant at all.</p>
+            <div type="part">
+               <head>The offences charged for which the ſaid Barons hereby appeare worthy to be cenſured are;</head>
+               <p>FIrſt for arrogating to themſelves Iu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>licature of Land not within the juriſdiction of that Court, to hold plea being no part of His Majeſties Revenew but the Petitioners inheritance, and ſo adjudg<g ref="char:EOLhyphen"/>ed by them as appeareth by the ſaid finall order of 2 <hi>Iuvij.</hi>
+               </p>
+               <p>2. For evi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting him by that order of 18. <hi>Nov. 7 Car.</hi> upon bare information of Councell not preſidented by any other Court of Iu<g ref="char:EOLhyphen"/>ſtice.</p>
+               <p>3. For twice evicting him from Land not in queſtion before them.</p>
+               <p>4. For evicting him being no party to the ſuite.</p>
+               <p>5. For inlarging privately a Deliuquent committed for con<g ref="char:EOLhyphen"/>tempt of an equitabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Order by themſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in open Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t upon full hearing by a Common Law of Haib. Corpus, and afterward diſ<g ref="char:EOLhyphen"/>charging him as aforeſaid. not unlikely that incong<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uous <hi>Painter</hi> in <hi>Horace, Humano capiti &amp;c.</hi>
+               </p>
+               <p>6. For their bold and untrue averment of the parts contrary to the ſaid deviſion, and whereupon the Order of 13. <hi>Maii 18. Car.</hi> for the ſecond onſter was grounded.</p>
+               <pb facs="tcp:154710:4"/>
+               <p>7. For evicting the Petitioner the ſecond time by colour of the ſaid Reſolve of Parliament made thereby a ſtall for corruption and injuſtice.</p>
+               <p>8. Laſtly ejucting him by the ſaid Order 13. <hi>May 18 Car.</hi> from that Meſſages as part of the two parts whereunto by the ſaid finell Order of 2d. <hi>Iune,</hi> they had formerly reſtored him as the third part in one and the ſame deviſion, <hi>Secum diſſidentes,</hi> by a <hi>Mod, Ajun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> modo negant.</hi>
+               </p>
+               <p>The dammages ſuſtained by wilfull ruines and felling away the very P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts and materialls by <hi>Cofford</hi> during the three yeares, hee held the Inn after the firſt onſter.—300 l.</p>
+               <p>The meane profits for thoſe three yeares after the rate in the divi<g ref="char:EOLhyphen"/>ſion of 35 l. yearely Rent ordered by the ſaid finall Order of 2d. Inn, to bee reſtored—105 l.</p>
+               <p>The meane profits ſince the laſt owſter for a yeare and quarter at 65 l. <hi>Per aunum</hi>—080 l.</p>
+               <p>The charges unneceſſarily expended in a ſui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of fifteene yeares continuance in matter and faire practice ſo little concerning the Petitioner.—500 l.</p>
+               <p>His moſt humble prayer for himſelfe is that according to that juſt Order of 2d. Inn. (whereto no exception hath been taken) hee ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be reſtored to the ſaid Meſſage with the ſaid dammages, and coſts wherein if <hi>Cofford</hi> prove inſolra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, that by reaſon of ſuch ille<g ref="char:EOLhyphen"/>gall inlargement <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid Barons, as <hi>Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icipes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> may bee reſponſall and that however <hi>Coffords</hi> Co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ell by impu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity thus licenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate in their wrong information and by Affid appropria<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g the cauſe, though alſo Barons in expectation may eſcape the ſword of Iuſtice, yet that the plaintiffe termed by Maſter Attorney, <hi>Noy cerdo negotiator,</hi> or Cobler of the <hi>Wall, Nutt-Tree,</hi> who for refuſing a Dicker of Leather for his Tittle to the two parts, was thought fit to be baniſhed, may now be baniſhed for making no better uſe of his Bill.</p>
+               <p>And how ever <hi>Iuridicis erebo fiſco fas vivere rapto,</hi> may per<g ref="char:EOLhyphen"/>haps ſeeme to Gent. of the long Robe falſe or ſcandalous, yet upon Oyer of theſe Records, it will fall out too true, that theſe three met upon this diviſion of three where wrong informing the Court by the Lawyers, belying the Innocent Record by the Iu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges; The Devill Moderator ſo well agreed the caſe between them, that this <hi>Naboth</hi> was thus twice diſſeized by a Court of Iuſtice.</p>
+               <p>And certainely Right Honourable if <hi>Ex preſcripto Moſaico,</hi> the
+<pb facs="tcp:154710:5"/> judgements of men be the judgemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of God, and <hi>Munera o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>cant <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>;</hi> be po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itive againſt theſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, thus twice loſt <hi>in premo numero imparium,</hi> and if diſſolution of States and inju<g ref="char:EOLhyphen"/>ſtice are ſo <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, that becauſe <hi>Omnia Roma venalia,</hi> Iugu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th in Saluſt truly denounced againſt that great Miſtreſſe of the world, <hi>
+                     <g ref="char:V">Ʋ</g>rbem ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ritu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am,</hi> a ſufficient Caveat for <hi>Deviſis or be Brita<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> againſt their fel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deviſions and diſtractions, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the <hi>Maſaicall la<g ref="char:EOLhyphen"/>pidacon Perſtian</hi> excoriation, the Roman Inſuiſion, or <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> ex<g ref="char:EOLhyphen"/>occulation, for ſuch occaecation been put in execution againſt our Municipall Scarlets lately noted, more licenciate then Civillians, who although alſo wading in theſe lay ſtalls of <hi>Augeus</hi> (ſilly men) in their ſentences never dared traduction of Iuſtice beyond mat<g ref="char:EOLhyphen"/>ters opineable, whereas thoſe bold Barons in defiance of God and N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture throwing at no leſſe the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all, thus have with their Religi<g ref="char:EOLhyphen"/>on <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the viſuall ſence, becomming thereby Stocks, and Subjects of ſcorne to, <hi>Martialls mugiles Raphanique,</hi> Nominall Actors of injuſtice in <hi>Mercurius Britannicus,</hi> and by Biſhop <hi>Hall, Cambrobritanous Owen,</hi> and indeed by every weltch <hi>Epignani<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt,</hi> expanded the only perſons, who by their deviſions make all their Termes Hillary, although to the ruine and diſhonour of this other<g ref="char:EOLhyphen"/>wiſe moſt fl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riſhing State, wherein how deeply they have offende<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> both divine and humane Lawes, and for the common good what exemplary puniſhment ſhall be thought fit and agreeable with their demerits, the Petitioner humbly leaves to the high wiſdome of this moſt Honourable Aſſembly; For whom he will pray.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <hi>In libera civitate Auguſtus voluit etiam linguas eſſe liberas.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
